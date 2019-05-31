@@ -9,9 +9,8 @@ Webcam flux redirect on API Tensorflow
  - Tensorflow
 
 ## Usage
-
-python main.py
+    - python main.py
 
 ## Example
 
-![alt tag](example.gif)
+![alt tag](presentation.gif)
